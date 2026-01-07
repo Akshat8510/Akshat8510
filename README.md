@@ -2,7 +2,7 @@
 👋 Hey there, I’m Akshat!<br><br>🚀 Tech Explorer | Developer | Dreamer who codes late and drinks logic early<br><br>💡 I love turning ideas into real, working projects — from smart AI systems 🤖 to quirky games 🎮 and data-driven experiments 📊.<br>🛠️ Currently working with Python, Node.js, and OpenCV (and always learning something new).<br><br>🔥 What I’m Into<br><br>🧠 AI, Computer Vision & OpenCV projects<br>🕹️ Building chaotic games with personality<br>⚙️ Automation tools & backend magic with Node.js<br><br>
 
 ## 🌐 Socials:
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@akshat230405) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshat230405@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-kumar-35691327b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@akshat230405) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshat230405@gmail.com)
 
 # 💻 Tech Stack:
 
